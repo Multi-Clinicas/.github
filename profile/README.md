@@ -1,12 +1,3 @@
-## Hi there 👋
+A **Multi-Clinicas** é uma organização criada no contexto da disciplina de **Programação Web (2025.2)** da **Universidade Federal do Agreste de Pernambuco (UFAPE)**.
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Nosso objetivo é simular o desenvolvimento de um produto de software real, aplicando conceitos avançados de desenvolvimento web, arquitetura de software e boas práticas de engenharia. O projeto foca na construção de uma plataforma SaaS (Software as a Service) Multi-Tenant, explorando desafios como isolamento de dados, escalabilidade e integração entre frontend e backend.
